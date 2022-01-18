@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(245, 245, 245);
+}
+h1, h2, h3 {
+    text-align: center;
+}
+.style{
+    border-spacing: 5px;
+} 
+.ins{
+    padding: 4px;
+}
